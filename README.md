@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React GraphQL Challenge - SpaceX API
+
+## Requirements
+typescript good component design clear data and state management has ui design considerations paging
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
